@@ -4,7 +4,7 @@
   Udacity Account Email: zhenguo.wang@daimler.com
 
 * Name:Liu Chuanhao     
-  Udacity Account Email: lch743@126.com
+  Udacity Account Email: chuanhao.liu@daimler.com
 
 * Name:Zhu Minzheng  
   Udacity Account Email: minzheng.zhu@daimler.com
